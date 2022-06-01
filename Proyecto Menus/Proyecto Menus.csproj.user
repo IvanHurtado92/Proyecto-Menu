@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EnvCalen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CualquierBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quienes_Somos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gato3D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Leyenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Maya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Romanos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
