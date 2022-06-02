@@ -24,3 +24,30 @@ C:\Users\IvanH\OneDrive - Universidad Autónoma de Aguascalientes\Documentos\ESC
 C:\Users\IvanH\OneDrive - Universidad Autónoma de Aguascalientes\Documentos\ESCUELA\2DO SEMESTRE\LENGUAJES DE COMPUTACIÓN II\C#\Proyecto\Proyecto Menus\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Maya.resources
 C:\Users\IvanH\OneDrive - Universidad Autónoma de Aguascalientes\Documentos\ESCUELA\2DO SEMESTRE\LENGUAJES DE COMPUTACIÓN II\C#\Proyecto\Proyecto Menus\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Quienes_Somos.resources
 C:\Users\IvanH\OneDrive - Universidad Autónoma de Aguascalientes\Documentos\ESCUELA\2DO SEMESTRE\LENGUAJES DE COMPUTACIÓN II\C#\Proyecto\Proyecto Menus\Proyecto Menus\obj\Debug\net6.0-windows\refint\Proyecto Menus.dll
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\bin\Debug\net6.0-windows\Proyecto Menus.exe
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\bin\Debug\net6.0-windows\Proyecto Menus.deps.json
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\bin\Debug\net6.0-windows\Proyecto Menus.runtimeconfig.json
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\bin\Debug\net6.0-windows\Proyecto Menus.dll
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\bin\Debug\net6.0-windows\Proyecto Menus.pdb
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.csproj.AssemblyReference.cache
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Calculadora.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.CualquierBase.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.EnvCalen.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Gato3D.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Leyenda.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Maya.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Menu.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.PPT.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Properties.Resources.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Quienes_Somos.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto_Menus.Romanos.resources
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.csproj.GenerateResource.cache
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.AssemblyInfoInputs.cache
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.AssemblyInfo.cs
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.csproj.CoreCompileInputs.cache
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.dll
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\refint\Proyecto Menus.dll
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.pdb
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\Proyecto Menus.genruntimeconfig.cache
+C:\Users\IvanH\Documents\PROGRAMACIÓN\Git\calculadora\Proyecto-Menu\Proyecto Menus\obj\Debug\net6.0-windows\ref\Proyecto Menus.dll

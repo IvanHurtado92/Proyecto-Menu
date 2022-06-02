@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IvanH\\OneDrive - Universidad Autónoma de Aguascalientes\\Documentos\\ESCUELA\\2DO SEMESTRE\\LENGUAJES DE COMPUTACIÓN II\\C#\\Proyecto\\Proyecto Menus\\Proyecto Menus\\Proyecto Menus.csproj",
+      "projectUniqueName": "C:\\Users\\IvanH\\Documents\\PROGRAMACIÓN\\Git\\calculadora\\Proyecto-Menu\\Proyecto Menus\\Proyecto Menus.csproj",
       "projectName": "Proyecto Menus",
-      "projectPath": "C:\\Users\\IvanH\\OneDrive - Universidad Autónoma de Aguascalientes\\Documentos\\ESCUELA\\2DO SEMESTRE\\LENGUAJES DE COMPUTACIÓN II\\C#\\Proyecto\\Proyecto Menus\\Proyecto Menus\\Proyecto Menus.csproj",
+      "projectPath": "C:\\Users\\IvanH\\Documents\\PROGRAMACIÓN\\Git\\calculadora\\Proyecto-Menu\\Proyecto Menus\\Proyecto Menus.csproj",
       "packagesPath": "C:\\Users\\IvanH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IvanH\\OneDrive - Universidad Autónoma de Aguascalientes\\Documentos\\ESCUELA\\2DO SEMESTRE\\LENGUAJES DE COMPUTACIÓN II\\C#\\Proyecto\\Proyecto Menus\\Proyecto Menus\\obj\\",
+      "outputPath": "C:\\Users\\IvanH\\Documents\\PROGRAMACIÓN\\Git\\calculadora\\Proyecto-Menu\\Proyecto Menus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IvanH\\AppData\\Roaming\\NuGet\\NuGet.Config",

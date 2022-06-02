@@ -59,5 +59,11 @@ namespace Proyecto_Menus
             Form quienessomos = new Quienes_Somos();
             quienessomos.Show();
         }
+
+        private void calculadoraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Calculadora = new Calculadora();
+            Calculadora.Show();
+        }
     }
 }

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.calculadoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.juegosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gatoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.piedraPapelOTijeraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -37,7 +38,6 @@
             this.mayaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.romanoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.leyendaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.calculadoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tiendaYEnvíosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -60,6 +60,13 @@
             this.menuStrip1.Size = new System.Drawing.Size(491, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            // 
+            // calculadoraToolStripMenuItem
+            // 
+            this.calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
+            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(82, 20);
+            this.calculadoraToolStripMenuItem.Text = "Calculadora";
+            this.calculadoraToolStripMenuItem.Click += new System.EventHandler(this.calculadoraToolStripMenuItem_Click);
             // 
             // juegosToolStripMenuItem
             // 
@@ -122,12 +129,6 @@
             this.leyendaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.leyendaToolStripMenuItem.Text = "Leyenda";
             this.leyendaToolStripMenuItem.Click += new System.EventHandler(this.leyendaToolStripMenuItem_Click);
-            // 
-            // calculadoraToolStripMenuItem
-            // 
-            this.calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
-            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(82, 20);
-            this.calculadoraToolStripMenuItem.Text = "Calculadora";
             // 
             // tiendaYEnvíosToolStripMenuItem
             // 
