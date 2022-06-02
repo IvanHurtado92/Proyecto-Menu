@@ -123,16 +123,6 @@ namespace Proyecto_Menus.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap IMG_20220527_WA0021_1_ {
-            get {
-                object obj = ResourceManager.GetObject("IMG-20220527-WA0021(1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap mamado_1_ {
             get {
                 object obj = ResourceManager.GetObject("mamado_1_", resourceCulture);
@@ -146,6 +136,16 @@ namespace Proyecto_Menus.Properties {
         internal static System.Drawing.Bitmap mano80x80 {
             get {
                 object obj = ResourceManager.GetObject("mano80x80", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap obed_1_ {
+            get {
+                object obj = ResourceManager.GetObject("obed_1_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
