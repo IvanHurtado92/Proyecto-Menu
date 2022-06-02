@@ -108,5 +108,10 @@ namespace Proyecto_Menus
                 Result.Text = total;
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
