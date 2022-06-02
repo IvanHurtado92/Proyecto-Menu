@@ -154,7 +154,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Proyecto_Menus.Properties.Resources.Captura_de_pantalla_2022_05_19_151202;
-            this.pictureBox1.Location = new System.Drawing.Point(130, 53);
+            this.pictureBox1.Location = new System.Drawing.Point(145, 57);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(201, 201);
             this.pictureBox1.TabIndex = 1;
